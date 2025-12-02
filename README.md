@@ -54,7 +54,7 @@ console.log(me.profile());
 ## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%>Spent My Time 
 
 <p align="center">
-    <a href="https://github.com/enzosrs">
+    <a href="https://github.com/kaix-srs">
           <img width="60%" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777" />
     <img width="30%" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
   </a>
@@ -195,8 +195,8 @@ console.log(me.profile());
 ### 🏆GitHub Trophies
 
 <p align="center">
-    <a href="https://github.com/enzosrs">
-          <img width="49%" src="https://github-profile-trophy.vercel.app/?username=enzosrs&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+    <a href="https://github.com/kaix-srs">
+          <img width="49%" src="https://github-profile-trophy.vercel.app/?username=kaixsrs&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
     <img width="40%" src="https://holopin.me/amajaying3" />
   </a>
 </p>
@@ -207,7 +207,7 @@ console.log(me.profile());
 
 
 <p align="center">
-<a href="https://github.com/enzosrs"> <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=U7P4L-IN&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=20" alt="GitHub language stats" /><img width="57%" src="https://github-readme-stats.vercel.app/api?username=enzosrs&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+<a href="https://github.com/kaix-srs"> <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=U7P4L-IN&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=20" alt="GitHub language stats" /><img width="57%" src="https://github-readme-stats.vercel.app/api?username=kaixsrs&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
   </a>
 </p>
 
@@ -217,11 +217,11 @@ console.log(me.profile());
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom">GitHub States
 <p align="center">
-<a href="https://github.com/enzosrs"><img width="35%" src="https://github-contributor-stats.vercel.app/api?username=enzosrs&limit=5&theme=dark&combine_all_yearly_contributions=true" /><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=enzosrs&theme=dark&hide_border=false" />
+<a href="https://github.com/kaixsrs"><img width="35%" src="https://github-contributor-stats.vercel.app/api?username=kaixsrs&limit=5&theme=dark&combine_all_yearly_contributions=true" /><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kaixsrs&theme=dark&hide_border=false" />
  </a></p>
 <p align="center">
-<a href="https://github.com/enzosrs">
-<img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enzosrs&theme=dark" /><img width="40%" src="https://github-readme-activity-graph.vercel.app/graph?username=enzosrs&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)" />
+<a href="https://github.com/kaix-srs">
+<img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaixsrs&theme=dark" /><img width="40%" src="https://github-readme-activity-graph.vercel.app/graph?username=kaixsrs&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)" />
   </a>
 </p>
 
