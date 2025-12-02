@@ -228,7 +228,7 @@ console.log(me.profile());
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
 <!-- Contribution Snake -->
-<p align="center"><img src="https://raw.githubusercontent.com/U7P4L-IN/U7P4L-IN/5c6041b41eebbe672b36a5827eb964039d1bfbb8/assets/images/github-contribution-grid-snake.svg"></p>
+<p align="center"><img src="https://github.com/U7P4L-IN/U7P4L-IN/blob/master/assets/images/github-contribution-grid-snake.svg"></p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
