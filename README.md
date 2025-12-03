@@ -1,14 +1,14 @@
-<img width="100%" title="TEAM - SRS" alt="enzosrs" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=ＥＮＺＯ－ＳＲＳ&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Be%20Aware%20%7C%20Be%20Safe&descAlignY=70&descAlign=50&descSize=20"/>
+<img width="100%" title="TEAM - SRS" alt="enzosrs" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=KAIX－ＳＲＳ&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Be%20Aware%20%7C%20Be%20Safe&descAlignY=70&descAlign=50&descSize=20"/>
 
 
 <table border="0">
  <tr>
     <td>
       <br>
-     <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?ont=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+ENZO+SRS;"/>
+     <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?ont=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+KAIX+SRS;"/>
      <img width="160" align="center" src="https://komarev.com/ghpvc/?username=enzosrs&label=Profile%20Visitor&color=071A2C&style=for-the-badge" alt="enzosrs"/>
       <br>
-      <img width="280" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=enzosrs&data=followers,repositories,stars,commits&theme=viridescent"/>
+      <img width="280" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=kaix-srs&data=followers,repositories,stars,commits&theme=viridescent"/>
     <td>
       <img alt="gif" src="https://raw.githubusercontent.com/U7P4L-IN/U7P4L-IN/refs/heads/master/assets/images/code.gif">
    </td>  
@@ -20,9 +20,9 @@
 
 ```go
 const me = {
-  name: "Sakil Rana",
-  username: "enzosrs",
-  age: 20,
+  name: "Kaif",
+  username: "kaixsrs",
+  age: 18,
   country: "India",
   profession: ["Game Dev", "Web Dev", "App Dev", "Telegram Bot Dev"],
   favoriteLanguages: ["JavaScript", "Python", "PHP", "HTML", "CSS"],
